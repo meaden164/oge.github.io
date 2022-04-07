@@ -73,7 +73,7 @@
   }
   .header__container {
     display: flex;
-    min-height: 70px;
+    min-height: 53px;
     align-items: center;
   }
   @media (max-width: 479px) {
